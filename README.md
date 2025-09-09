@@ -8,7 +8,7 @@
     --repo_branch=main
     --repo_app_dir=external_agent/examples/langgraph_python
     --app_envs='[{"name":"WATSONX_SPACE_ID","value":"your ibm cloud space_id"},{"name":"WATSONX_API_KEY","value":"your ibm cloud api key"}]'
-    --app_proxy_config_yaml='download from https://github.ibm.com/Simon-Shi/zen-core-api/blob/gitapp/travis/org_dp/app-proxy-config.yaml'
+    --app_proxy_config_yaml='https://raw.githubusercontent.com/shixuguang/external-agent/refs/heads/main/app-proxy-config.yaml'
     --cpu=400m
     --memory=200Mi
     --cpu_limit=500m
