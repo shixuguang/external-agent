@@ -17,7 +17,7 @@
     --memory_limit=400Mi
 ```
 
-#### application available at `https://zen-route/physical_location/default-pl/<app_name-app_run_id>/docs/`
+#### application available at `https://zen-route/physical_location/default-pl/<app_name-app_run_id>/docs`
 
 To `try it out`, use this `request body`:  
 ```
